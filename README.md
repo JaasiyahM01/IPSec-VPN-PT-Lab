@@ -2,7 +2,7 @@
 Small enterprise network stimulation created with Packet Tracer. Demonstrates VLAN-based network segmentation as well as IPSec site-to-site VPN connectivity for secure communication over untrusted networks.
 
 Topology:
-
+![Network Topology](images/01-topology.png)
 
 Technologies Implemented:
 - Cisco Packet Tracer
